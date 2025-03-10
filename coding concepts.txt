@@ -1,0 +1,21 @@
+strings---->1
+pointers
+arrays
+oops:
+	inheritance
+	polymorphism
+	abstraction
+	encapsulation
+matrix
+search
+sort
+liked list
+binary tree
+BST
+greedy 
+backtracking
+graphs
+stacks&queues
+heap
+dynamic programming
+bit mainipulation
